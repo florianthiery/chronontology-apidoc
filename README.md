@@ -1,4 +1,4 @@
-# RGZM Meta-Index Docs
+# ChronOntology API Documentation
 
 This repository provides the documentation for the chronontology API build using Read The Docs.
 
