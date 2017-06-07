@@ -2,7 +2,7 @@
 
 This repository provides the documentation for the chronontology API build using Read The Docs.
 
-Get the latest `build` [here](https://htmlpreview.github.io/?https://raw.githubusercontent.com/florianthiery/chronontology-docs/master/de/build/html/index.html).
+Get the latest `build` [here](https://htmlpreview.github.io/?https://raw.githubusercontent.com/florianthiery/chronontology-apidoc/master/de/build/html/index.html).
 
 ## Setup
 
